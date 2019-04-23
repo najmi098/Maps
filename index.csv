@@ -1,61 +1,61 @@
-NO,ITEMSET,Support,Support(%)
-1,Fluoxetine,3,30%
-2,Paroxetine,6,60%
-3,Sertraline,1,10%
-4,Abdominal Pain,1,10%
-5,Aggression,3,30%
-6,Agitation,1,10%
-7,Anger,1,10%
-8,Anxiety,2,20%
-9,Artharalagia,1,10%
-10,Ashthenia,1,10%
-11,Chills,1,10%
-12,Complete Suicide,1,10%
-13,Complications Of Maternal Exposure To Therapuetic ,1,10%
-14,Confusional Stage,2,20%
-15,Convulsion Neonatal,1,10%
-16,Crying,2,20%
-17,Deporsonalitation,1,10%
-18,Depression,1,10%
-19,Derealisation,1,10%
-20,Diarrhoea,1,10%
-21,Disturbance In Attention,1,10%
-22,Dizziness,2,20%
-23,Drug Withdrawal Syndrome,7,70%
-24,Drug Withdrawal Syndrome Neonatal ,1,10%
-25,Emotional Distress,1,10%
-26,Fatigue,1,10%
-27,Feeling Abnormal,2,20%
-28,Foot Fracture,1,10%
-29,Hallucination,1,10%
-30,Headache,1,10%
-31,Hyperacusis,1,10%
-32,Hyperhidrosis,2,20%
-33,Influenza,1,10%
-34,Insomnia,1,10%
-35,Lethargy,1,10%
-36,Memory Impairment,1,10%
-37,Migraine,1,10%
-38,Mood Swing,1,10%
-39,Muscle Cramp,1,10%
-40,Nausea,1,10%
-41,Nervousness,1,10%
-42,Nightmare,1,10%
-43,Palpitations,1,10%
-44,Panic Attack,1,10%
-45,Paresthesia,1,10%
-46,Patner Stress,1,10%
-47,Personality Disorder,1,10%
-48,Photosensitivity Reaction,1,10%
-49,Premature Baby,1,10%
-50,Respiratory Disorder Nos Neonatal,1,10%
-51,Sedation,1,10%
-52,Self-injurious Ideation,1,10%
-53,Sexual Activity Increase,1,10%
-54,Sleep Disorder,2,20%
-55,Suicidal ideation,2,20%
-56,Suicide attempt,1,10%
-57,Tremor,2,10%
-58,Vertigo,1,10%
-59,Visual Disturbance,1,10%
-60,Weight Increased,1,10%
+NO,ITEMSET,Support,Support()
+1,Fluoxetine,3,30
+2,Paroxetine,6,60
+3,Sertraline,1,10
+4,Abdominal Pain,1,10
+5,Aggression,3,30
+6,Agitation,1,10
+7,Anger,1,10
+8,Anxiety,2,20
+9,Artharalagia,1,10
+10,Ashthenia,1,10
+11,Chills,1,10
+12,Complete Suicide,1,10
+13,Complications Of Maternal Exposure To Therapuetic ,1,10
+14,Confusional Stage,2,20
+15,Convulsion Neonatal,1,10
+16,Crying,2,20
+17,Deporsonalitation,1,10
+18,Depression,1,10
+19,Derealisation,1,10
+20,Diarrhoea,1,10
+21,Disturbance In Attention,1,10
+22,Dizziness,2,20
+23,Drug Withdrawal Syndrome,7,70
+24,Drug Withdrawal Syndrome Neonatal ,1,10
+25,Emotional Distress,1,10
+26,Fatigue,1,10
+27,Feeling Abnormal,2,20
+28,Foot Fracture,1,10
+29,Hallucination,1,10
+30,Headache,1,10
+31,Hyperacusis,1,10
+32,Hyperhidrosis,2,20
+33,Influenza,1,10
+34,Insomnia,1,10
+35,Lethargy,1,10
+36,Memory Impairment,1,10
+37,Migraine,1,10
+38,Mood Swing,1,10
+39,Muscle Cramp,1,10
+40,Nausea,1,10
+41,Nervousness,1,10
+42,Nightmare,1,10
+43,Palpitations,1,10
+44,Panic Attack,1,10
+45,Paresthesia,1,10
+46,Patner Stress,1,10
+47,Personality Disorder,1,10
+48,Photosensitivity Reaction,1,10
+49,Premature Baby,1,10
+50,Respiratory Disorder Nos Neonatal,1,10
+51,Sedation,1,10
+52,Self-injurious Ideation,1,10
+53,Sexual Activity Increase,1,10
+54,Sleep Disorder,2,20
+55,Suicidal ideation,2,20
+56,Suicide attempt,1,10
+57,Tremor,2,10
+58,Vertigo,1,10
+59,Visual Disturbance,1,10
+60,Weight Increased,1,10
